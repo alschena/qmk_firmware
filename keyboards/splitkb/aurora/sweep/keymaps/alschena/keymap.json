@@ -48,10 +48,6 @@
             "hue_steps": 8,
             "saturation_steps": 8,
             "brightness_steps": 8,
-            "layers": {
-                "blink": true,
-                "enabled": true
-            },
             "sleep": true
         }
     },
